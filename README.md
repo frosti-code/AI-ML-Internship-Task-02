@@ -44,6 +44,6 @@ Use historical stock data to predict the next day's closing price using regressi
 - Matplotlib
 
 ---
+ 
+💻 Author: Muhammad Mustaqeem Javed
 
-📅 **Internship Duration:** Month Year – Month Year  
-💻 **Author:** Muhammad Mustaqeem Javed
